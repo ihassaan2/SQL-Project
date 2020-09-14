@@ -5,7 +5,7 @@ I used a dataset from a US-based organization called Yelp, which provides a plat
 
 -Click on SQLscript.txt to see my code and how I used it to extract data from the 'Chinook Database'
 
--To better understand it please view the screenshot of the ER diagram I have attached
+-To better understand the database please view the screenshot of the ER diagram I have attached
 
 -I have also attached the entire dataset which you can use in any DBMS to view the database and test my queries against it
 
